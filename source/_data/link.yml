@@ -1,0 +1,13 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: JerryC
+      link: https://jerryc.me/
+      avatar: https://jerryc.me/img/avatar
+      descr: 今日事，今日毕
+    2:
+      name: HCBlog
+      link: https://blog.hclonely.com/
+      avatar: https://blog.hclonely.com/img/avatar
+      descr: 一个懒人的博客
